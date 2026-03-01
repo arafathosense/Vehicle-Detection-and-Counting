@@ -2,7 +2,6 @@
 
 A real-time deep learning–based vehicle detection and counting built using modern object detection algorithms. The system detects and counts vehicles in video streams using **YOLOv8n**, providing fast and accurate performance suitable for intelligent transportation and smart city applications.
 
-
 ## 🚗 Project Overview
 
 This project applies state-of-the-art deep learning techniques to detect and count:
